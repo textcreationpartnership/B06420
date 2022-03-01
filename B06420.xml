@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A very godly song, intituled, The earnest petition of a faithful Christian, being clerk of Bodnam, made upon his deathbed, at the instant of his transmutation. To a sweet solemn tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688-1689?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06420</idno>
+            <idno type="STC">Wing V277</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[544]</idno>
+            <idno type="EEBO-CITATION">99887966</idno>
+            <idno type="PROQUEST">ocm99887966</idno>
+            <idno type="VID">183632</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183632)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[423])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A very godly song, intituled, The earnest petition of a faithful Christian, being clerk of Bodnam, made upon his deathbed, at the instant of his transmutation. To a sweet solemn tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray in Ducklane.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1688 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Now my painful eyes lie rowling ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="544" facs="tcp:183632:1" rendition="simple:additions"/>
+            <head>A very Godly <hi>SONG,</hi> intituled, the Earneſt Petition of the faithful Chriſtian, being Clerk of <hi>Badnam,</hi> made upon his Deathbed, at the Inſtant of his Tranſumation.</head>
+            <p>
+               <hi>To a ſweet ſolemn Tune.</hi>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>NOw my painful eyes lie rowling,</l>
+               <l>And my paſſing-Bell is towling,</l>
+               <l>Towling ſweetly, I lye dying,</l>
+               <l>And my life is from me flying.</l>
+               <l>Grant me ſtrength, O gracious God,</l>
+               <l>For to endure thy heavy Rod,</l>
+               <l>Then ſhall I rejoyce and ſing,</l>
+               <l>With Pſalms unto our heavenly King.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Simeon</hi> that bleſſed man,</l>
+               <l>Believed Chriſt when he was come,</l>
+               <l>And then he did deſire to dye,</l>
+               <l>To live with him Eternally.</l>
+            </lg>
+            <lg>
+               <l>Chriſt wrote me a ſtrong Salvation.</l>
+               <l>By his bitter death and paſſion;</l>
+               <l>He had waſh d and ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> me c ean,</l>
+               <l>That I ſhould never ſin again.</l>
+            </lg>
+            <lg>
+               <l>Grievous pains doth call and cry,</l>
+               <l>O Man prepare thy ſelf to dye:</l>
+               <l>All my Sins I have lamented,</l>
+               <l>And to d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e I am contented.</l>
+            </lg>
+            <lg>
+               <l>Silly Soul the Lord receive thee,</l>
+               <l>Death is come, and life muſt leave thee</l>
+               <l>Death wi l t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y no mans leaſure,</l>
+               <l>Then farewel all earth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y pleaſure.</l>
+            </lg>
+            <lg>
+               <l>In this world I nothing crave,</l>
+               <l>But to bring me to my Grave;</l>
+               <l>In my Grave while I lye ſleeping,</l>
+               <l>Angels have my ſoul in keeping.</l>
+            </lg>
+            <lg>
+               <l>When the bells are for me ringing,</l>
+               <l>Lord receive my ſoul with ſinging:</l>
+               <l>Then ſhall I be free from pain,</l>
+               <l>To live and never dye again.</l>
+            </lg>
+            <lg>
+               <l>While the worms corrupting breed on,</l>
+               <l>Wait my noiſome Corps to feed on,</l>
+               <l>My fervent ſoul this priſon loathing.</l>
+               <l>Craves a Robe of Angels cloathing.</l>
+            </lg>
+            <lg>
+               <l>Farewel world and worldly Glory,</l>
+               <l>Farewel all things tranſitory,</l>
+               <l>
+                  <hi>Sion</hi> Hill my Soul aſcendeth,</l>
+               <l>And Gods Royal throne attendeth.</l>
+            </lg>
+            <lg>
+               <l>Farewel Wife &amp; children ſmall,</l>
+               <l>For I muſt go when Chriſt doth call:</l>
+               <l>And for my death be ye content</l>
+               <l>When I am gone do not lament.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Now the Bell doth ceaſe to toul,</hi>
+               </l>
+               <l>
+                  <hi>Sweet Jeſus Chriſt receive my ſoul.</hi>
+               </l>
+            </lg>
+            <pb n="545" facs="tcp:183632:1" rendition="simple:additions"/>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>O</hi> God which did the world create,</l>
+               <l>Hear a poor ſinner at the Gate,</l>
+               <l>Thou that from death didſt ſet me free</l>
+               <l>Remit my ſins and ſhew mercy.</l>
+            </lg>
+            <lg>
+               <l>O thou that caus'd thy bleſſed Son,</l>
+               <l>Into this Vniverſe to come:</l>
+               <l>Thy Goſpel true for to fulfill,</l>
+               <l>And to ſubdue Sin, Death, and Hell.</l>
+            </lg>
+            <lg>
+               <l>Grant for his ſake that dy'd on tree,</l>
+               <l>On the bleſt Mount of <hi>Calvary:</hi>
+               </l>
+               <l>That I being grieved for my ſin,</l>
+               <l>Might by repentance Heaven w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</l>
+            </lg>
+            <lg>
+               <l>The Goſpel ſaith, who ſo believe,</l>
+               <l>To them wilt thou a bleſſing give,</l>
+               <l>Amongſt which number grant me faith</l>
+               <l>That to believe the Goſpel ſaith.</l>
+            </lg>
+            <lg>
+               <l>Which to believe grant that I may,</l>
+               <l>Though here I dye, yet live for aye,</l>
+               <l>Then ſaviour ſweet remit my ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And grant me faith that life to win.</l>
+            </lg>
+            <lg>
+               <l>And ſince thy death a price moſt great,</l>
+               <l>Hath bought us here I do intreat</l>
+               <l>To give me Grace thy name to praiſe,</l>
+               <l>Both now and evermore always.</l>
+            </lg>
+            <lg>
+               <l>For by thy death my ſoul is free</l>
+               <l>From Hell, which ſtill by thy decree</l>
+               <l>To ſinners, all for ſin is due,</l>
+               <l>Vntil thy Son our Saviour true.</l>
+            </lg>
+            <lg>
+               <l>Did vanquiſh by almighty power,</l>
+               <l>Death, Hell, and all that could devour</l>
+               <l>My ſins, O Lord, I do confeſs,</l>
+               <l>Like ſands in Seas are numberleſs.</l>
+            </lg>
+            <lg>
+               <l>Yet though my ſins like ſcarlet ſhow,</l>
+               <l>Their whiteneſs may exceed the ſnow,</l>
+               <l>If thou thy mercy do extend,</l>
+               <l>That I my ſinful life may mend.</l>
+            </lg>
+            <lg>
+               <l>With mercy thy bleſt word doth ſay,</l>
+               <l>At any time obtain I may,</l>
+               <l>If power and grace in me remain,</l>
+               <l>From carnal ſin for to reſtrain.</l>
+            </lg>
+            <lg>
+               <l>Then give me grace, Lord to abſtain</l>
+               <l>Fro <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſin, that I may ſtill remain</l>
+               <l>With thee in heaven where angels ſing</l>
+               <l>Moſt joyfully to thee our King.</l>
+            </lg>
+            <lg>
+               <l>God grant, O Chriſt, that when I dye,</l>
+               <l>My <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ul with thee immediately,</l>
+               <l>May have abode among the bleſt</l>
+               <l>And live for ever in true reſt.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> W Thackeray in Ducklane.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
